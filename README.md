@@ -1,6 +1,6 @@
 # ShopEase - An E-Commerce Website
 
-ShopEase is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+**ShopEase** is a full-stack e-commerce website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It features a responsive design, ensuring compatibility across various devices, and includes user authentication, product management, and order processing functionalities. ShopEase is a fully responsive ecommerce website, maximum compatiblities in all mobile devices.
 
 ## Demo
 ## Screen view
